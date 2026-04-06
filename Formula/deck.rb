@@ -1,8 +1,8 @@
 class Deck < Formula
   desc "Lightweight local dev orchestrator"
   homepage "https://github.com/WarriorsCode/deck"
-  url "https://github.com/WarriorsCode/deck/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "6f73db93becc543b65d52c1332866ddd00ba0db807bff6d5e6f5ebd15e5147ba"
+  url "https://github.com/WarriorsCode/deck/archive/refs/tags/v0.7.1.tar.gz"
+  sha256 "a5576c4b2a501013b4a902e3aa1c8148cbc3059ec0ca98550b30771cf0c14b9b"
   license "MIT"
 
   depends_on "go" => :build
